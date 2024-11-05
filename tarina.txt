@@ -17,4 +17,4 @@ päähenkilö tekee saman virheen kolmannen kerran
 tällä kertaa virheen tekeminen vie päähenkilön hengen
 viisas henkilö sanoo jotkin loppusanat
 tarinan opetus
-loppu
+Loppu
