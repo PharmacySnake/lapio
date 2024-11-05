@@ -12,3 +12,4 @@ linssi
 purkki artisokka
 kapris
 oliiviöljy
+olut
